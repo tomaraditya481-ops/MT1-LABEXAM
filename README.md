@@ -1,2 +1,2 @@
 # MT1-LABEXAM
-MT1 PRACTICAL 2 NOVEMBER
+Shopping Cart Management
